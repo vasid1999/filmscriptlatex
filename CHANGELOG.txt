@@ -1,0 +1,3 @@
+v1.0
+ - Created filmscript.tex and demo.tex
+ - Added basic scene functionality in filmscript.tex
