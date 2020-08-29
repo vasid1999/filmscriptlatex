@@ -1,0 +1,2 @@
+ - Force dialogue title and dialogue onto same page
+ - Create index of characters that occur thoughout the script for easy access
